@@ -1,0 +1,25 @@
+
+body{
+    
+    background-image: url(tt.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-color: black;
+    
+   
+}
+h1{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 4, 4); 
+    font-size: 500%;
+    border: 1px solid white;width: 250px;
+   text-align: center;
+   border-bottom: 10px solid rgb(17, 240, 73);
+}
+div{text-align: center;margin-top: -5%;}
+a{ font-size: xx-large;margin: 20px;
+    color: white;
+    text-decoration-color: rgb(17, 240, 73);
+}
+h2{color: red;font-size: xx-large;margin-top: 5%;}
+h3{color: white;width: 35%;font-style: oblique;font-size: xx-large;}
+
